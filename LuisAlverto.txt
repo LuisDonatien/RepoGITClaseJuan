@@ -1,4 +1,4 @@
-my_list = [4, 9, 9, 9, 10]
+my_list = [2, 5, 6, 7, 2]
 
 for index, val in enumerate(my_list):
 	print(index, val)
